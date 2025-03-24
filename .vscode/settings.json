@@ -1,0 +1,14 @@
+{
+  "path.relative.enable": true,
+  "path.relative.baseFolder": "${workspaceFolder}",
+  "explorer.sortOrder": "foldersFirst",
+  "explorer.sortOrderLexicographicOptions": "case-sensitive",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.gitignore": false,
+    "**/.vscode": false,
+    "**/.*": true
+  }
+}
