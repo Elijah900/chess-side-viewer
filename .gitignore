@@ -27,3 +27,9 @@ yarn-error.log*
 
 # Dependency directories
 node_modules/
+docs/claude_recommendations/
+docs/trae_recommendations/
+
+# Virtual environment
+venv/
+venv/
